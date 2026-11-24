@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="internal bhop/internal bhop.vcxproj" Id="4fa92197-a88b-45d1-9777-c88ffe5741df" />
+</Solution>
